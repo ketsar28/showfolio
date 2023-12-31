@@ -16,7 +16,7 @@ export default function BlogCard({blog, isDark}) {
       <div className={isDark ? "blog-container dark-mode" : "blog-container"}>
         <a
           className={
-            isDark ? "dark-mode blog-card blog-card-shadow" : "blog-card"
+            isDark ? " dark-mode blog-card blog-card-shadow" : "blog-card"
           }
           href="#blog"
         >

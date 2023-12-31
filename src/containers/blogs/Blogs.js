@@ -53,7 +53,7 @@ export default function Blogs() {
           <h1 className="blog-header-text">{blogSection.title}</h1>
           <p
             className={
-              isDark ? "dark-mode blog-subtitle" : "subTitle blog-subtitle"
+              isDark ? "dark-mode-text blog-subtitle" : "subTitle blog-subtitle"
             }
           >
             {blogSection.subtitle}

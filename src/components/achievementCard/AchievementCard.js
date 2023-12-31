@@ -21,10 +21,10 @@ export default function AchievementCard({cardInfo, isDark}) {
         ></img>
       </div>
       <div className="certificate-detail-div">
-        <h5 className={isDark ? "dark-mode card-title" : "card-title"}>
+        <h5 className={isDark ? "dark-mode-text card-title" : "card-title"}>
           {cardInfo.title}
         </h5>
-        <p className={isDark ? "dark-mode card-subtitle" : "card-subtitle"}>
+        <p className={isDark ? "dark-mode-text card-subtitle" : "card-subtitle"}>
           {cardInfo.description}
         </p>
       </div>

@@ -13,7 +13,7 @@ export default function Footer() {
           {emoji("© 2023 Copyright: 🧑‍💻 by Muhammad Ketsar Ali Abi Wahid")}
         </p>
         <p className={isDark ? "dark-mode footer-text" : "footer-text"}>
-          Theme by <a href="https://github.com/ketsar28">ShowFolio</a>
+          Theme by <a href="https://github.com/ketsar28">Showfolio</a>
         </p>
       </div>
     </Fade>

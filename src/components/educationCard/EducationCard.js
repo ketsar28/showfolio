@@ -41,7 +41,7 @@ export default function EducationCard({school}) {
               <h5
                 className={
                   isDark
-                    ? "dark-mode education-text-subHeader"
+                    ? "dark-mode-text education-text-subHeader"
                     : "education-text-subHeader"
                 }
               >
@@ -49,7 +49,7 @@ export default function EducationCard({school}) {
               </h5>
               <p
                 className={`${
-                  isDark ? "dark-mode" : ""
+                  isDark ? "dark-mode-text" : ""
                 } education-text-duration`}
               >
                 {school.duration}

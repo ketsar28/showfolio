@@ -16,12 +16,16 @@
   border-top-left-radius: 20px;
   border-bottom-left-radius: 20px;
   // background-color: $progressBarSpanBG;
-  background: linear-gradient(to right, #432afe, #bce868);
+  background: linear-gradient(to right, #3f00a2ff, #de8a1c);
   position: relative;
   overflow: hidden;
 }
 .skill {
   line-height: 3.5vw;
+}
+
+.skill p {
+  font-weight: bold;
 }
 .skill-bars {
   font-size: 28px;
