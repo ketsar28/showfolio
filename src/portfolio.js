@@ -394,6 +394,12 @@ const blogSection = {
       title: "Why Getting Certified in IT as a Programmer is Crucial",
       description:
         "This article explores the importance of IT certification for programmers, covering skill validation, career opportunities, increased productivity, support for ongoing professional development, customer trust, and more. Certification serves as the key to competence, customer confidence, and adaptation in the dynamic IT world."
+    },
+    {
+      url: "https://medium.com/@muhammadketsar2/mongodb-vs-mysql-what-are-the-differences-71d12c790322",
+      title: "MongoDB vs MySQL: what are the differences?",
+      description:
+        "MongoDB and MySQL are both incredible databases with outstanding features. However, their success is determined by the field in which they are playing. Choosing MongoDB over MySQL depends entirely on the characteristics of your project and your long-term goals. Rather than merely comparing the pros and cons, it is first essential to comprehend the different contexts in which they operate."
     }
   ],
   display: true // Set false to hide this section, defaults to true
