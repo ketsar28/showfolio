@@ -26,7 +26,7 @@ const greeting = {
     "A passionate Full Stack Developer 🚀 having an experience of building Web applications with JavaScript / Reactjs / Nodejs / Spring Boot and some other cool libraries and frameworks."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1_EKxeuskqOROHpjOIQ4XZjT7NXRpm-It/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1-N-qP2EojnUcGFOo2Yent5DFkrUkB9xz/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -52,11 +52,20 @@ const skillsSection = {
   subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
   skills: [
     emoji(
-      "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
+      "⚡ Create layouts and visual designs that are attractive and easy to use."
     ),
-    emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
+    emoji("⚡ Design and manage databases using SQL or NoSQL"),
     emoji(
-      "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
+      "⚡ Create layouts and visual designs that are attractive and easy to use."
+    ),
+    emoji(
+      "⚡ Build and manage API (Application Programming Interface) to connect front-end and back-end."
+    ),
+    emoji(
+      "⚡ Added animated elements and visual effects to enhance user experience."
+    ),
+    emoji(
+      "⚡ Handles web application security, including protection against common attacks such as SQL injection"
     )
   ],
 
